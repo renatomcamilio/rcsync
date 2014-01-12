@@ -1,0 +1,22 @@
+{
+  "name": "rcsync",
+  "version": "0.0.0",
+  "description": "rcsync is my personal backup tool, which uses rsync. Created for learning purposes.",
+  "main": "rsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rsync",
+    "rcsync",
+    "backup"
+  ],
+  "author": {
+    "name": "Renato M Camilio",
+    "email": "renatomcamilio@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "argsparser": "0.0.6"
+  }
+}
